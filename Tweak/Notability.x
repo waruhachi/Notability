@@ -27,7 +27,7 @@
 						@"originalPurchaseDate": @"2023-08-31T17:27:35.000Z",
 						@"originalTransactionId": @"2000000403209609"
 					},
-					@"isClassic": @YES
+					@"isClassic": @NO
 				}
 			}
 		};

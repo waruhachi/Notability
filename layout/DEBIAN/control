@@ -1,0 +1,9 @@
+Package: moe.waru.notabilitypro
+Name: Notability Pro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Notability Pro
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate

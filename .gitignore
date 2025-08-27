@@ -1,0 +1,6 @@
+.theos
+.vscode
+.clang*
+.DS_Store
+
+/packages

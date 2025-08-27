@@ -1,5 +1,5 @@
-Package: moe.waru.notabilitypro
-Name: Notability Pro
+Package: moe.waru.notability
+Name: Notability
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Notability Pro

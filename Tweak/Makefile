@@ -1,4 +1,4 @@
-TWEAK_NAME = NotabilityPro
+TWEAK_NAME = Notability
 
 $(TWEAK_NAME)_FILES = $(TWEAK_NAME).x
 $(TWEAK_NAME)_CFLAGS = -fobjc-arc
